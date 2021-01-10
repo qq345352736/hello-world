@@ -1,1 +1,8 @@
 客户端使用流程：
+1. 新建Branch
+2. 在新建的Branch中各种编辑
+3. 在客户端可以看到branch和main之间的差别，也就是所做的改变
+4. 点击 commit to，表示确定改变
+5. 发行。点Publish branch，这样可以把这个branch发行到remote
+6. 通过网页操作就可以完成pull request和merge
+7. 如果早早地publish branch了，会发生什么呢？项目组的人都能够在该branch内编辑，最后一起同步，一并pull reques和merge
