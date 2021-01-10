@@ -5,4 +5,4 @@
 4. 点击 commit to，表示确定改变
 5. 发行。点Publish branch，这样可以把这个branch发行到remote
 6. 通过网页操作就可以完成pull request和merge
-7. 如果早早地publish branch了，会发生什么呢？项目组的人都能够在该branch内编辑，最后一起同步，一并pull reques和merge
+7. 如果早早地publish branch了，会发生什么呢？项目组的人都能够在该branch内编辑，最后一起同步，一并pull reques和merge。如果实在desktop里面编辑的，点commit和push origin，把branch中的改变推到remote。
